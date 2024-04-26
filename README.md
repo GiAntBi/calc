@@ -1,2 +1,1 @@
-#new better and better!!!
-best
+#better become best
