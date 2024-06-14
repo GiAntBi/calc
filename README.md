@@ -91,6 +91,4 @@ while True:
         print("R. Restart")
  
     else:
-        print("Invalid Input") 
-
-        
+        print("Invalid Input")        
