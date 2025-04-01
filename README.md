@@ -22,8 +22,7 @@ def sqrt(x):
 def power(x, y):
     return math.pow(x, y)
  
- 
-# Main Program
+ # Main Program
 print("Select Operation.")
 print("1. Addition")
 print("2. Subtraction")
